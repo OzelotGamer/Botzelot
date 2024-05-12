@@ -9,4 +9,6 @@ Now type `npm i dotenv` and `npm i tmi.js`.
 
 Then just download the files in the folder TB on this page and put them into the folder you created at the beginning.
 
+Go to [TokenGenerator](https://twitchtokengenerator.com/) copy the Acces Token and past all required things into .env file.
+
 To start the bot type `npm start`.
