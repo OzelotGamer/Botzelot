@@ -1,0 +1,16 @@
+{
+  "name": "ozelotbot",
+  "version": "1.0.0",
+  "description": "IAmOzelotGamer's own chatbot",
+  "main": "request.js",
+  "scripts": {
+    "start": "node req.js",
+    "test": "node ser.js"
+  },
+  "author": "OzelotGamer",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "tmi.js": "^1.8.5"
+  }
+}
